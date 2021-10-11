@@ -2,7 +2,8 @@
 refresh_interval: 2 # seconds
 max_price: 800 # dollars
 urls:
-  - https://www.aussar.es/tarjetas-graficas/palit-geforce-rtx-3070-gamingpro.html
+  # - https://www.amazon.es/dp/B07VPHD8L8
+  # - https://www.aussar.es/tarjetas-graficas/palit-geforce-rtx-3070-gamingpro.html
   # - https://www.coolmod.com/asus-rog-strix-geforce-rtx-3070-oc-v2-gaming-8gb-gddr6-tarjeta-grafica/
   # - https://www.neobyte.es/gigbyte-rtx-3070-aorus-master-8gb-7770.html
   # - https://www.neobyte.es/asus-tuf-rtx3070-oc-8gb-v2-gaming-9680.html
