@@ -18,6 +18,7 @@ import scraper.pccomponentes
 import scraper.neobyte
 import scraper.coolmod
 import scraper.aussar
+import scraper.vsgamers
 
 
 from scraper.common import ScraperFactory
